@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3334a08c-86a3-46e8-bf76-baa4e83b43c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program_korzina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program_korzina.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Program_login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program_login.java" afterDir="false" />
-    </list>
+    <list default="true" id="3334a08c-86a3-46e8-bf76-baa4e83b43c7" name="Changes" comment="Готовое практическое задание 1!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +48,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program_login">
+  <component name="RunManager" selected="Application.Program_0">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="project_work" />
@@ -63,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program" />
+    <configuration name="Program_0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program_0" />
       <module name="project_work" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program_0" />
         <item itemvalue="Application.Program_login" />
         <item itemvalue="Application.Program_korzina" />
         <item itemvalue="Application.Program_2" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -111,8 +104,16 @@
       <updated>1653472101349</updated>
       <workItem from="1653472111321" duration="7899000" />
       <workItem from="1653546008913" duration="7937000" />
-      <workItem from="1653916278290" duration="737000" />
+      <workItem from="1653916278290" duration="865000" />
     </task>
+    <task id="LOCAL-00001" summary="Готовое практическое задание 1!">
+      <created>1653917140587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653917140587</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,5 +129,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Готовое практическое задание 1!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Готовое практическое задание 1!" />
   </component>
 </project>
